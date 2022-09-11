@@ -12,8 +12,8 @@
   <xsl:for-each-group select="line" group-by='person'>
    <!--Sort by last name by skipping past first initial and period -->
    <xsl:sort select="substring-after(current-grouping-key(), '. ')"></xsl:sort>
-   <xsl:text/>{person: "<xsl:value-of select="current-grouping-key()"/>",&cr; <xsl:text/>
-   <xsl:text>schedule:&cr;  [&cr;</xsl:text>
+   <xsl:text/>{"person": "<xsl:value-of select="current-grouping-key()"/>",&cr; <xsl:text/>
+   <xsl:text>"schedule":&cr;  [&cr;</xsl:text>
    <xsl:for-each select="current-group()">
     <xsl:apply-templates select='.'/>
     <xsl:if test="position() != last()">,</xsl:if>
@@ -34,9 +34,9 @@
  
 
  <xsl:template match='id|title|daysOfWeek|startTime|endTime|room'>
-  <xsl:text>       </xsl:text>
+  <xsl:text>       "</xsl:text>
   <xsl:value-of select="local-name()"/>
-  <xsl:text>: "</xsl:text>
+  <xsl:text>": "</xsl:text>
   <xsl:value-of select="."/>
   <xsl:text>",&cr;</xsl:text>
  </xsl:template>

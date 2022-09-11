@@ -2,7 +2,7 @@
 <schedule xmlns:weh="http://weh.maritime.edu" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <line>
       <id>EN-4151-12</id>
-      <title>Applied Naval Architecture</title>
+      <title>Naval Arch</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>09:00</startTime>
       <endTime>09:50</endTime>
@@ -11,7 +11,7 @@
    </line>
    <line>
       <id>EN-2111-12</id>
-      <title>Aux Machinery II</title>
+      <title>Aux'y II</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>09:00</startTime>
       <endTime>09:50</endTime>
@@ -20,7 +20,7 @@
    </line>
    <line>
       <id>EN-2111-21</id>
-      <title>Aux Machinery II</title>
+      <title>Aux'y II</title>
       <daysOfWeek>2,4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>09:15</endTime>
@@ -29,7 +29,7 @@
    </line>
    <line>
       <id>EN-2111-25</id>
-      <title>Aux Machinery II</title>
+      <title>Aux'y II</title>
       <daysOfWeek>2,4</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>13:45</endTime>
@@ -38,7 +38,7 @@
    </line>
    <line>
       <id>EN-2111L-15</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>1</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>16:20</endTime>
@@ -47,7 +47,7 @@
    </line>
    <line>
       <id>EN-2111L-21</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>11:50</endTime>
@@ -56,7 +56,7 @@
    </line>
    <line>
       <id>EN-2111L-21</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>11:50</endTime>
@@ -65,7 +65,7 @@
    </line>
    <line>
       <id>EN-2111L-25</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>16:20</endTime>
@@ -74,7 +74,7 @@
    </line>
    <line>
       <id>EN-2111L-25</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>16:20</endTime>
@@ -83,7 +83,7 @@
    </line>
    <line>
       <id>EN-2111L-35</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>3</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>16:20</endTime>
@@ -92,7 +92,7 @@
    </line>
    <line>
       <id>EN-2111L-41</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>11:50</endTime>
@@ -101,7 +101,7 @@
    </line>
    <line>
       <id>EN-2111L-41</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>11:50</endTime>
@@ -110,7 +110,7 @@
    </line>
    <line>
       <id>EN-2111L-45</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>16:20</endTime>
@@ -119,7 +119,7 @@
    </line>
    <line>
       <id>EN-2111L-45</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>16:20</endTime>
@@ -128,7 +128,7 @@
    </line>
    <line>
       <id>EN-2111L-65</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>1</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>16:20</endTime>
@@ -137,7 +137,7 @@
    </line>
    <line>
       <id>EN-2111L-71</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>11:50</endTime>
@@ -146,7 +146,7 @@
    </line>
    <line>
       <id>EN-2111L-75</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>16:20</endTime>
@@ -155,7 +155,7 @@
    </line>
    <line>
       <id>EN-2111L-75</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>16:20</endTime>
@@ -164,7 +164,7 @@
    </line>
    <line>
       <id>EN-2111L-85</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>3</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>16:20</endTime>
@@ -173,7 +173,7 @@
    </line>
    <line>
       <id>EN-2111L-91</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>11:50</endTime>
@@ -182,7 +182,7 @@
    </line>
    <line>
       <id>EN-2111L-91</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>11:50</endTime>
@@ -191,7 +191,7 @@
    </line>
    <line>
       <id>EN-2111L-95</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>16:20</endTime>
@@ -200,7 +200,7 @@
    </line>
    <line>
       <id>EN-2111L-95</id>
-      <title>Aux Machinery II Lab</title>
+      <title>Aux'y II Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>16:20</endTime>
@@ -209,7 +209,7 @@
    </line>
    <line>
       <id>EN-2121-11</id>
-      <title>Aux. Machinery II -Facilities</title>
+      <title>Aux'y II -Facilities</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>08:50</endTime>
@@ -218,7 +218,7 @@
    </line>
    <line>
       <id>EN-2121-16</id>
-      <title>Aux. Machinery II -Facilities</title>
+      <title>Aux'y II -Facilities</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>13:50</endTime>
@@ -227,7 +227,7 @@
    </line>
    <line>
       <id>EN-1212-25</id>
-      <title>Computer Aided Design</title>
+      <title>CAD</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>12:00</startTime>
       <endTime>13:50</endTime>
@@ -236,7 +236,7 @@
    </line>
    <line>
       <id>EN-1212-27</id>
-      <title>Computer Aided Design</title>
+      <title>CAD</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>14:00</startTime>
       <endTime>15:50</endTime>
@@ -245,7 +245,7 @@
    </line>
    <line>
       <id>EN-1212-45</id>
-      <title>Computer Aided Design</title>
+      <title>CAD</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>12:00</startTime>
       <endTime>13:50</endTime>
@@ -254,7 +254,7 @@
    </line>
    <line>
       <id>EN-1212-47</id>
-      <title>Computer Aided Design</title>
+      <title>CAD</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>14:00</startTime>
       <endTime>15:50</endTime>
@@ -263,7 +263,7 @@
    </line>
    <line>
       <id>EN-2901-41</id>
-      <title>Computer Methods in Engineerin</title>
+      <title>Computer Methods</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>09:50</endTime>
@@ -272,7 +272,7 @@
    </line>
    <line>
       <id>EN-2901-44</id>
-      <title>Computer Methods in Engineerin</title>
+      <title>Computer Methods</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>10:00</startTime>
       <endTime>11:50</endTime>
@@ -299,7 +299,7 @@
    </line>
    <line>
       <id>EN-4121-11</id>
-      <title>Elec. Power Distribution</title>
+      <title>Elec. Power Dist</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>08:50</endTime>
@@ -308,7 +308,7 @@
    </line>
    <line>
       <id>EN-4121-16</id>
-      <title>Elec. Power Distribution</title>
+      <title>Elec. Power Dist</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>13:50</endTime>
@@ -317,7 +317,7 @@
    </line>
    <line>
       <id>EN-3111-11</id>
-      <title>Electrical Machines</title>
+      <title>E. Machines</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>08:50</endTime>
@@ -326,7 +326,7 @@
    </line>
    <line>
       <id>EN-3111-14</id>
-      <title>Electrical Machines</title>
+      <title>E. Machines</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>11:00</startTime>
       <endTime>11:50</endTime>
@@ -335,7 +335,7 @@
    </line>
    <line>
       <id>EN-3111L-17</id>
-      <title>Electrical Machines Lab</title>
+      <title>E. Machines Lab</title>
       <daysOfWeek>1</daysOfWeek>
       <startTime>14:00</startTime>
       <endTime>15:50</endTime>
@@ -344,7 +344,7 @@
    </line>
    <line>
       <id>EN-3111L-17</id>
-      <title>Electrical Machines Lab</title>
+      <title>E. Machines Lab</title>
       <daysOfWeek>1</daysOfWeek>
       <startTime>14:00</startTime>
       <endTime>15:50</endTime>
@@ -353,7 +353,7 @@
    </line>
    <line>
       <id>EN-3111L-25</id>
-      <title>Electrical Machines Lab</title>
+      <title>E. Machines Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>12:00</startTime>
       <endTime>13:50</endTime>
@@ -362,7 +362,7 @@
    </line>
    <line>
       <id>EN-3111L-25</id>
-      <title>Electrical Machines Lab</title>
+      <title>E. Machines Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>12:00</startTime>
       <endTime>13:50</endTime>
@@ -371,7 +371,7 @@
    </line>
    <line>
       <id>EN-3111L-27</id>
-      <title>Electrical Machines Lab</title>
+      <title>E. Machines Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>14:00</startTime>
       <endTime>15:50</endTime>
@@ -380,7 +380,7 @@
    </line>
    <line>
       <id>EN-3111L-27</id>
-      <title>Electrical Machines Lab</title>
+      <title>E. Machines Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>14:00</startTime>
       <endTime>15:50</endTime>
@@ -389,7 +389,7 @@
    </line>
    <line>
       <id>EN-3111L-45</id>
-      <title>Electrical Machines Lab</title>
+      <title>E. Machines Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>12:00</startTime>
       <endTime>13:50</endTime>
@@ -506,7 +506,7 @@
    </line>
    <line>
       <id>EN-3801-24</id>
-      <title>Energy Strategy and Management</title>
+      <title>Energy Strat &amp; Mgt</title>
       <daysOfWeek>2,4</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>13:45</endTime>
@@ -542,7 +542,7 @@
    </line>
    <line>
       <id>EN-1112L-11</id>
-      <title>Engineering Systems Lab</title>
+      <title>Eng Sys Lab</title>
       <daysOfWeek>1</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>09:50</endTime>
@@ -551,7 +551,7 @@
    </line>
    <line>
       <id>EN-1112L-21</id>
-      <title>Engineering Systems Lab</title>
+      <title>Eng Sys Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>09:50</endTime>
@@ -560,7 +560,7 @@
    </line>
    <line>
       <id>EN-1112L-21</id>
-      <title>Engineering Systems Lab</title>
+      <title>Eng Sys Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>09:50</endTime>
@@ -569,7 +569,7 @@
    </line>
    <line>
       <id>EN-1112L-26</id>
-      <title>Engineering Systems Lab</title>
+      <title>Eng Sys Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>14:50</endTime>
@@ -578,7 +578,7 @@
    </line>
    <line>
       <id>EN-1112L-31</id>
-      <title>Engineering Systems Lab</title>
+      <title>Eng Sys Lab</title>
       <daysOfWeek>3</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>09:50</endTime>
@@ -587,7 +587,7 @@
    </line>
    <line>
       <id>EN-1112L-31</id>
-      <title>Engineering Systems Lab</title>
+      <title>Eng Sys Lab</title>
       <daysOfWeek>3</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>09:50</endTime>
@@ -596,7 +596,7 @@
    </line>
    <line>
       <id>EN-1112L-36</id>
-      <title>Engineering Systems Lab</title>
+      <title>Eng Sys Lab</title>
       <daysOfWeek>3</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>14:50</endTime>
@@ -605,7 +605,7 @@
    </line>
    <line>
       <id>EN-1112L-36</id>
-      <title>Engineering Systems Lab</title>
+      <title>Eng Sys Lab</title>
       <daysOfWeek>3</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>14:50</endTime>
@@ -614,7 +614,7 @@
    </line>
    <line>
       <id>EN-1112L-41</id>
-      <title>Engineering Systems Lab</title>
+      <title>Eng Sys Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>09:50</endTime>
@@ -623,7 +623,7 @@
    </line>
    <line>
       <id>EN-1112L-46</id>
-      <title>Engineering Systems Lab</title>
+      <title>Eng Sys Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>14:50</endTime>
@@ -632,7 +632,7 @@
    </line>
    <line>
       <id>EN-1112L-46</id>
-      <title>Engineering Systems Lab</title>
+      <title>Eng Sys Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>14:50</endTime>
@@ -641,7 +641,7 @@
    </line>
    <line>
       <id>EN-1112-13</id>
-      <title>Engineering Systems and Safety</title>
+      <title>Eng Sys and Safety</title>
       <daysOfWeek>1,3</daysOfWeek>
       <startTime>10:00</startTime>
       <endTime>10:50</endTime>
@@ -650,7 +650,7 @@
    </line>
    <line>
       <id>EN-1112-14</id>
-      <title>Engineering Systems and Safety</title>
+      <title>Eng Sys and Safety</title>
       <daysOfWeek>1,3</daysOfWeek>
       <startTime>11:00</startTime>
       <endTime>11:50</endTime>
@@ -659,7 +659,7 @@
    </line>
    <line>
       <id>EN-1112-15</id>
-      <title>Engineering Systems and Safety</title>
+      <title>Eng Sys and Safety</title>
       <daysOfWeek>1,3</daysOfWeek>
       <startTime>12:00</startTime>
       <endTime>12:50</endTime>
@@ -668,7 +668,7 @@
    </line>
    <line>
       <id>EN-1112-24</id>
-      <title>Engineering Systems and Safety</title>
+      <title>Eng Sys and Safety</title>
       <daysOfWeek>2,4</daysOfWeek>
       <startTime>11:00</startTime>
       <endTime>11:50</endTime>
@@ -677,7 +677,7 @@
    </line>
    <line>
       <id>EN-1112-25</id>
-      <title>Engineering Systems and Safety</title>
+      <title>Eng Sys and Safety</title>
       <daysOfWeek>2,4</daysOfWeek>
       <startTime>12:00</startTime>
       <endTime>12:50</endTime>
@@ -740,7 +740,7 @@
    </line>
    <line>
       <id>EN-7146-15</id>
-      <title>Heat and Mass Transfer</title>
+      <title>Heat &amp; Mass Trans</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>12:00</startTime>
       <endTime>12:50</endTime>
@@ -749,7 +749,7 @@
    </line>
    <line>
       <id>EN-4222-22</id>
-      <title>Heating, Vent. &amp; Air-Cond.</title>
+      <title>HVAC</title>
       <daysOfWeek>2,4</daysOfWeek>
       <startTime>09:30</startTime>
       <endTime>10:45</endTime>
@@ -758,7 +758,7 @@
    </line>
    <line>
       <id>EN-4222-25</id>
-      <title>Heating, Vent. &amp; Air-Cond.</title>
+      <title>HVAC</title>
       <daysOfWeek>2,4</daysOfWeek>
       <startTime>14:00</startTime>
       <endTime>15:15</endTime>
@@ -776,7 +776,7 @@
    </line>
    <line>
       <id>EN-4131L-21</id>
-      <title>Int. Comb. Engines II Lab</title>
+      <title>I.C.E. II Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>11:50</endTime>
@@ -785,7 +785,7 @@
    </line>
    <line>
       <id>EN-4131L-21</id>
-      <title>Int. Comb. Engines II Lab</title>
+      <title>I.C.E. II Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>11:50</endTime>
@@ -794,7 +794,7 @@
    </line>
    <line>
       <id>EN-4131L-41</id>
-      <title>Int. Comb. Engines II Lab</title>
+      <title>I.C.E. II Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>11:50</endTime>
@@ -803,7 +803,7 @@
    </line>
    <line>
       <id>EN-4131L-41</id>
-      <title>Int. Comb. Engines II Lab</title>
+      <title>I.C.E. II Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>11:50</endTime>
@@ -812,7 +812,7 @@
    </line>
    <line>
       <id>EN-4131L-45</id>
-      <title>Int. Comb. Engines II Lab</title>
+      <title>I.C.E. II Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>16:20</endTime>
@@ -821,7 +821,7 @@
    </line>
    <line>
       <id>EN-4131L-45</id>
-      <title>Int. Comb. Engines II Lab</title>
+      <title>I.C.E. II Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>16:20</endTime>
@@ -830,7 +830,7 @@
    </line>
    <line>
       <id>EN-4131L-71</id>
-      <title>Int. Comb. Engines II Lab</title>
+      <title>I.C.E. II Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>11:50</endTime>
@@ -839,7 +839,7 @@
    </line>
    <line>
       <id>EN-4131L-71</id>
-      <title>Int. Comb. Engines II Lab</title>
+      <title>I.C.E. II Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>11:50</endTime>
@@ -848,7 +848,7 @@
    </line>
    <line>
       <id>EN-4131L-91</id>
-      <title>Int. Comb. Engines II Lab</title>
+      <title>I.C.E. II Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>11:50</endTime>
@@ -857,7 +857,7 @@
    </line>
    <line>
       <id>EN-4131L-91</id>
-      <title>Int. Comb. Engines II Lab</title>
+      <title>I.C.E. II Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>11:50</endTime>
@@ -866,7 +866,7 @@
    </line>
    <line>
       <id>EN-4131L-95</id>
-      <title>Int. Comb. Engines II Lab</title>
+      <title>I.C.E. II Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>16:20</endTime>
@@ -875,7 +875,7 @@
    </line>
    <line>
       <id>EN-4131L-95</id>
-      <title>Int. Comb. Engines II Lab</title>
+      <title>I.C.E. II Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>12:30</startTime>
       <endTime>16:20</endTime>
@@ -884,7 +884,7 @@
    </line>
    <line>
       <id>EN-4131-13</id>
-      <title>Internal Combustion Engines II</title>
+      <title>I.C.E. II</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>10:00</startTime>
       <endTime>10:50</endTime>
@@ -893,7 +893,7 @@
    </line>
    <line>
       <id>EN-4131-15</id>
-      <title>Internal Combustion Engines II</title>
+      <title>I.C.E. II</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>12:00</startTime>
       <endTime>12:50</endTime>
@@ -902,7 +902,7 @@
    </line>
    <line>
       <id>EN-4131-17</id>
-      <title>Internal Combustion Engines II</title>
+      <title>I.C.E. II</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>14:00</startTime>
       <endTime>14:50</endTime>
@@ -947,7 +947,7 @@
    </line>
    <line>
       <id>EN-2112L-11</id>
-      <title>Machine Tool Tech/Welding Lab</title>
+      <title>M.T.T. Lab</title>
       <daysOfWeek>1</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -956,7 +956,7 @@
    </line>
    <line>
       <id>EN-2112L-16</id>
-      <title>Machine Tool Tech/Welding Lab</title>
+      <title>M.T.T. Lab</title>
       <daysOfWeek>1</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -965,7 +965,7 @@
    </line>
    <line>
       <id>EN-2112L-21</id>
-      <title>Machine Tool Tech/Welding Lab</title>
+      <title>M.T.T. Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -974,7 +974,7 @@
    </line>
    <line>
       <id>EN-2112L-21</id>
-      <title>Machine Tool Tech/Welding Lab</title>
+      <title>M.T.T. Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -983,7 +983,7 @@
    </line>
    <line>
       <id>EN-2112L-26</id>
-      <title>Machine Tool Tech/Welding Lab</title>
+      <title>M.T.T. Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -992,7 +992,7 @@
    </line>
    <line>
       <id>EN-2112L-26</id>
-      <title>Machine Tool Tech/Welding Lab</title>
+      <title>M.T.T. Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1001,7 +1001,7 @@
    </line>
    <line>
       <id>EN-2112L-31</id>
-      <title>Machine Tool Tech/Welding Lab</title>
+      <title>M.T.T. Lab</title>
       <daysOfWeek>3</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1010,7 +1010,7 @@
    </line>
    <line>
       <id>EN-2112L-31</id>
-      <title>Machine Tool Tech/Welding Lab</title>
+      <title>M.T.T. Lab</title>
       <daysOfWeek>3</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1019,7 +1019,7 @@
    </line>
    <line>
       <id>EN-2112L-36</id>
-      <title>Machine Tool Tech/Welding Lab</title>
+      <title>M.T.T. Lab</title>
       <daysOfWeek>3</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1028,7 +1028,7 @@
    </line>
    <line>
       <id>EN-2112L-36</id>
-      <title>Machine Tool Tech/Welding Lab</title>
+      <title>M.T.T. Lab</title>
       <daysOfWeek>3</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1037,7 +1037,7 @@
    </line>
    <line>
       <id>EN-2112L-41</id>
-      <title>Machine Tool Tech/Welding Lab</title>
+      <title>M.T.T. Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1046,7 +1046,7 @@
    </line>
    <line>
       <id>EN-2112L-41</id>
-      <title>Machine Tool Tech/Welding Lab</title>
+      <title>M.T.T. Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1055,7 +1055,7 @@
    </line>
    <line>
       <id>EN-2112L-46</id>
-      <title>Machine Tool Tech/Welding Lab</title>
+      <title>M.T.T. Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1064,7 +1064,7 @@
    </line>
    <line>
       <id>EN-2112L-46</id>
-      <title>Machine Tool Tech/Welding Lab</title>
+      <title>M.T.T. Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1073,7 +1073,7 @@
    </line>
    <line>
       <id>EN-2112-51</id>
-      <title>Machine Tool Technology</title>
+      <title>M. Tool Tech</title>
       <daysOfWeek>5</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>08:50</endTime>
@@ -1082,7 +1082,7 @@
    </line>
    <line>
       <id>EN-2112-52</id>
-      <title>Machine Tool Technology</title>
+      <title>M. Tool Tech</title>
       <daysOfWeek>5</daysOfWeek>
       <startTime>09:00</startTime>
       <endTime>09:50</endTime>
@@ -1091,7 +1091,7 @@
    </line>
    <line>
       <id>EN-2112-53</id>
-      <title>Machine Tool Technology</title>
+      <title>M. Tool Tech</title>
       <daysOfWeek>5</daysOfWeek>
       <startTime>10:00</startTime>
       <endTime>10:50</endTime>
@@ -1100,7 +1100,7 @@
    </line>
    <line>
       <id>EN-2112-54</id>
-      <title>Machine Tool Technology</title>
+      <title>M. Tool Tech</title>
       <daysOfWeek>5</daysOfWeek>
       <startTime>11:00</startTime>
       <endTime>11:50</endTime>
@@ -1145,7 +1145,7 @@
    </line>
    <line>
       <id>EN-3216-13</id>
-      <title>Operational Controls</title>
+      <title>Ops Control</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>10:00</startTime>
       <endTime>10:50</endTime>
@@ -1154,7 +1154,7 @@
    </line>
    <line>
       <id>EN-3216-17</id>
-      <title>Operational Controls</title>
+      <title>Ops Control</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>14:00</startTime>
       <endTime>14:50</endTime>
@@ -1163,7 +1163,7 @@
    </line>
    <line>
       <id>EN-3216-17</id>
-      <title>Operational Controls</title>
+      <title>Ops Control</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>14:00</startTime>
       <endTime>14:50</endTime>
@@ -1208,7 +1208,7 @@
    </line>
    <line>
       <id>EN-3213L-21</id>
-      <title>Refrigeration Lab</title>
+      <title>Refer Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1217,7 +1217,7 @@
    </line>
    <line>
       <id>EN-3213L-26</id>
-      <title>Refrigeration Lab</title>
+      <title>Refer Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1226,7 +1226,7 @@
    </line>
    <line>
       <id>EN-3213L-26</id>
-      <title>Refrigeration Lab</title>
+      <title>Refer Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1235,7 +1235,7 @@
    </line>
    <line>
       <id>EN-3213L-41</id>
-      <title>Refrigeration Lab</title>
+      <title>Refer Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1244,7 +1244,7 @@
    </line>
    <line>
       <id>EN-3213L-41</id>
-      <title>Refrigeration Lab</title>
+      <title>Refer Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1253,7 +1253,7 @@
    </line>
    <line>
       <id>EN-3213L-46</id>
-      <title>Refrigeration Lab</title>
+      <title>Refer Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1262,7 +1262,7 @@
    </line>
    <line>
       <id>EN-3213L-71</id>
-      <title>Refrigeration Lab</title>
+      <title>Refer Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1271,7 +1271,7 @@
    </line>
    <line>
       <id>EN-3213L-76</id>
-      <title>Refrigeration Lab</title>
+      <title>Refer Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1280,7 +1280,7 @@
    </line>
    <line>
       <id>EN-3213L-76</id>
-      <title>Refrigeration Lab</title>
+      <title>Refer Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1289,7 +1289,7 @@
    </line>
    <line>
       <id>EN-3213L-91</id>
-      <title>Refrigeration Lab</title>
+      <title>Refer Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1298,7 +1298,7 @@
    </line>
    <line>
       <id>EN-3213L-91</id>
-      <title>Refrigeration Lab</title>
+      <title>Refer Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1307,7 +1307,7 @@
    </line>
    <line>
       <id>EN-3213L-96</id>
-      <title>Refrigeration Lab</title>
+      <title>Refer Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1316,7 +1316,7 @@
    </line>
    <line>
       <id>EN-3213L-96</id>
-      <title>Refrigeration Lab</title>
+      <title>Refer Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1325,7 +1325,7 @@
    </line>
    <line>
       <id>EN-3131-12</id>
-      <title>Steam Generators</title>
+      <title>Steam Gen</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>09:00</startTime>
       <endTime>09:50</endTime>
@@ -1334,7 +1334,7 @@
    </line>
    <line>
       <id>EN-3131-13</id>
-      <title>Steam Generators</title>
+      <title>Steam Gen</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>10:00</startTime>
       <endTime>10:50</endTime>
@@ -1343,7 +1343,7 @@
    </line>
    <line>
       <id>EN-3131-14</id>
-      <title>Steam Generators</title>
+      <title>Steam Gen</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>11:00</startTime>
       <endTime>11:50</endTime>
@@ -1352,7 +1352,7 @@
    </line>
    <line>
       <id>EN-3131-65</id>
-      <title>Steam Generators</title>
+      <title>Steam Gen</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>12:00</startTime>
       <endTime>12:50</endTime>
@@ -1361,7 +1361,7 @@
    </line>
    <line>
       <id>EN-3131L-21</id>
-      <title>Steam Generators Lab</title>
+      <title>Steam Gen Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1370,7 +1370,7 @@
    </line>
    <line>
       <id>EN-3131L-21</id>
-      <title>Steam Generators Lab</title>
+      <title>Steam Gen Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1379,7 +1379,7 @@
    </line>
    <line>
       <id>EN-3131L-26</id>
-      <title>Steam Generators Lab</title>
+      <title>Steam Gen Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1388,7 +1388,7 @@
    </line>
    <line>
       <id>EN-3131L-26</id>
-      <title>Steam Generators Lab</title>
+      <title>Steam Gen Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1397,7 +1397,7 @@
    </line>
    <line>
       <id>EN-3131L-41</id>
-      <title>Steam Generators Lab</title>
+      <title>Steam Gen Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1406,7 +1406,7 @@
    </line>
    <line>
       <id>EN-3131L-41</id>
-      <title>Steam Generators Lab</title>
+      <title>Steam Gen Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1415,7 +1415,7 @@
    </line>
    <line>
       <id>EN-3131L-45</id>
-      <title>Steam Generators Lab</title>
+      <title>Steam Gen Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1424,7 +1424,7 @@
    </line>
    <line>
       <id>EN-3131L-45</id>
-      <title>Steam Generators Lab</title>
+      <title>Steam Gen Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1433,7 +1433,7 @@
    </line>
    <line>
       <id>EN-3131L-71</id>
-      <title>Steam Generators Lab</title>
+      <title>Steam Gen Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1442,7 +1442,7 @@
    </line>
    <line>
       <id>EN-3131L-71</id>
-      <title>Steam Generators Lab</title>
+      <title>Steam Gen Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1451,7 +1451,7 @@
    </line>
    <line>
       <id>EN-3131L-76</id>
-      <title>Steam Generators Lab</title>
+      <title>Steam Gen Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1460,7 +1460,7 @@
    </line>
    <line>
       <id>EN-3131L-76</id>
-      <title>Steam Generators Lab</title>
+      <title>Steam Gen Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1469,7 +1469,7 @@
    </line>
    <line>
       <id>EN-3131L-91</id>
-      <title>Steam Generators Lab</title>
+      <title>Steam Gen Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1478,7 +1478,7 @@
    </line>
    <line>
       <id>EN-3131L-91</id>
-      <title>Steam Generators Lab</title>
+      <title>Steam Gen Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>10:50</endTime>
@@ -1487,7 +1487,7 @@
    </line>
    <line>
       <id>EN-3131L-95</id>
-      <title>Steam Generators Lab</title>
+      <title>Steam Gen Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1496,7 +1496,7 @@
    </line>
    <line>
       <id>EN-3131L-95</id>
-      <title>Steam Generators Lab</title>
+      <title>Steam Gen Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>15:50</endTime>
@@ -1505,7 +1505,7 @@
    </line>
    <line>
       <id>EN-3112-12</id>
-      <title>Strength of Materials</title>
+      <title>Strength</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>09:00</startTime>
       <endTime>09:50</endTime>
@@ -1514,7 +1514,7 @@
    </line>
    <line>
       <id>EN-3112-13</id>
-      <title>Strength of Materials</title>
+      <title>Strength</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>10:00</startTime>
       <endTime>10:50</endTime>
@@ -1523,7 +1523,7 @@
    </line>
    <line>
       <id>EN-3112-14</id>
-      <title>Strength of Materials</title>
+      <title>Strength</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>11:00</startTime>
       <endTime>11:50</endTime>
@@ -1532,7 +1532,7 @@
    </line>
    <line>
       <id>EN-3112-16</id>
-      <title>Strength of Materials</title>
+      <title>Strength</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>13:00</startTime>
       <endTime>13:50</endTime>
@@ -1541,7 +1541,7 @@
    </line>
    <line>
       <id>EN-3112L-21</id>
-      <title>Strength of Materials Lab</title>
+      <title>Strength Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>09:50</endTime>
@@ -1550,7 +1550,7 @@
    </line>
    <line>
       <id>EN-3112L-23</id>
-      <title>Strength of Materials Lab</title>
+      <title>Strength Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>10:00</startTime>
       <endTime>11:50</endTime>
@@ -1559,7 +1559,7 @@
    </line>
    <line>
       <id>EN-3112L-23</id>
-      <title>Strength of Materials Lab</title>
+      <title>Strength Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>10:00</startTime>
       <endTime>11:50</endTime>
@@ -1568,7 +1568,7 @@
    </line>
    <line>
       <id>EN-3112L-25</id>
-      <title>Strength of Materials Lab</title>
+      <title>Strength Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>12:00</startTime>
       <endTime>13:50</endTime>
@@ -1577,7 +1577,7 @@
    </line>
    <line>
       <id>EN-3112L-27</id>
-      <title>Strength of Materials Lab</title>
+      <title>Strength Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>14:00</startTime>
       <endTime>15:50</endTime>
@@ -1586,7 +1586,7 @@
    </line>
    <line>
       <id>EN-3112L-41</id>
-      <title>Strength of Materials Lab</title>
+      <title>Strength Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>09:50</endTime>
@@ -1595,7 +1595,7 @@
    </line>
    <line>
       <id>EN-3112L-45</id>
-      <title>Strength of Materials Lab</title>
+      <title>Strength Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>12:00</startTime>
       <endTime>13:50</endTime>
@@ -1604,7 +1604,7 @@
    </line>
    <line>
       <id>EN-3112L-47</id>
-      <title>Strength of Materials Lab</title>
+      <title>Strength Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>14:00</startTime>
       <endTime>15:50</endTime>
@@ -1613,7 +1613,7 @@
    </line>
    <line>
       <id>EN-3102-11</id>
-      <title>System Dynamics and Vibrations</title>
+      <title>Dynamics &amp; Vib</title>
       <daysOfWeek>1,3,5</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>08:50</endTime>
@@ -1622,7 +1622,7 @@
    </line>
    <line>
       <id>EN-4112-21</id>
-      <title>Thermo/Fluids Lab</title>
+      <title>T/F Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>09:50</endTime>
@@ -1631,7 +1631,7 @@
    </line>
    <line>
       <id>EN-4112-25</id>
-      <title>Thermo/Fluids Lab</title>
+      <title>T/F Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>12:00</startTime>
       <endTime>13:50</endTime>
@@ -1640,7 +1640,7 @@
    </line>
    <line>
       <id>EN-4112-27</id>
-      <title>Thermo/Fluids Lab</title>
+      <title>T/F Lab</title>
       <daysOfWeek>2</daysOfWeek>
       <startTime>14:00</startTime>
       <endTime>15:50</endTime>
@@ -1649,7 +1649,7 @@
    </line>
    <line>
       <id>EN-4112-37</id>
-      <title>Thermo/Fluids Lab</title>
+      <title>T/F Lab</title>
       <daysOfWeek>3</daysOfWeek>
       <startTime>14:00</startTime>
       <endTime>15:50</endTime>
@@ -1658,7 +1658,7 @@
    </line>
    <line>
       <id>EN-4112-41</id>
-      <title>Thermo/Fluids Lab</title>
+      <title>T/F Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>08:00</startTime>
       <endTime>09:50</endTime>
@@ -1667,7 +1667,7 @@
    </line>
    <line>
       <id>EN-4112-43</id>
-      <title>Thermo/Fluids Lab</title>
+      <title>T/F Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>10:00</startTime>
       <endTime>11:50</endTime>
@@ -1676,7 +1676,7 @@
    </line>
    <line>
       <id>EN-4112-50</id>
-      <title>Thermo/Fluids Lab</title>
+      <title>T/F Lab</title>
       <daysOfWeek>4</daysOfWeek>
       <startTime>12:00</startTime>
       <endTime>13:50</endTime>
