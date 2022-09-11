@@ -1,0 +1,25 @@
+
+body {
+  margin: 20px 5px;
+  padding: 0;
+  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+  font-size: 10px;
+}
+
+.cal {
+  display: inline-block;
+  max-width: 340px;
+  margin: 5px 5px;
+  border: 1px solid;
+}
+
+
+#person {
+ margin: 0 0;
+ font-weight: bold;
+ }
+
+.fc .fc-toolbar.fc-header-toolbar{
+ margin: 5px;
+ font-weight: bold;
+ }

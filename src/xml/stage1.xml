@@ -1,0 +1,1704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule xmlns:weh="http://weh.maritime.edu" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <line>
+      <id>EN-4151-12</id>
+      <title>Applied Naval Architecture</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>09:00</startTime>
+      <endTime>09:50</endTime>
+      <person>F. Murray</person>
+      <room>HA 206</room>
+   </line>
+   <line>
+      <id>EN-2111-12</id>
+      <title>Aux Machinery II</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>09:00</startTime>
+      <endTime>09:50</endTime>
+      <person>L. Wilcox</person>
+      <room>BR 201</room>
+   </line>
+   <line>
+      <id>EN-2111-21</id>
+      <title>Aux Machinery II</title>
+      <daysOfWeek>2,4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>09:15</endTime>
+      <person>K. McClellan</person>
+      <room>BR 201</room>
+   </line>
+   <line>
+      <id>EN-2111-25</id>
+      <title>Aux Machinery II</title>
+      <daysOfWeek>2,4</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>13:45</endTime>
+      <person>K. McClellan</person>
+      <room>BR 201</room>
+   </line>
+   <line>
+      <id>EN-2111L-15</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>1</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>16:20</endTime>
+      <person>M. Weir</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-21</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>11:50</endTime>
+      <person>R. Gill</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-21</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>11:50</endTime>
+      <person>M. Weir</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-25</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>16:20</endTime>
+      <person>T. Hibbert</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-25</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>16:20</endTime>
+      <person>K. Crawford</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-35</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>3</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>16:20</endTime>
+      <person>K. McClellan</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-41</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>11:50</endTime>
+      <person>T. Demoranville</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-41</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>11:50</endTime>
+      <person>F. Collins</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-45</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>16:20</endTime>
+      <person>T. Demoranville</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-45</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>16:20</endTime>
+      <person>F. Collins</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-65</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>1</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>16:20</endTime>
+      <person>M. Weir</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-71</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>11:50</endTime>
+      <person>R. Gill</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-75</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>16:20</endTime>
+      <person>T. Hibbert</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-75</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>16:20</endTime>
+      <person>K. Crawford</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-85</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>3</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>16:20</endTime>
+      <person>K. McClellan</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-91</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>11:50</endTime>
+      <person>T. Demoranville</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-91</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>11:50</endTime>
+      <person>F. Collins</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-95</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>16:20</endTime>
+      <person>T. Demoranville</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2111L-95</id>
+      <title>Aux Machinery II Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>16:20</endTime>
+      <person>F. Collins</person>
+      <room>BR 126</room>
+   </line>
+   <line>
+      <id>EN-2121-11</id>
+      <title>Aux. Machinery II -Facilities</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>08:50</endTime>
+      <person>T. Hibbert</person>
+      <room>BR 201</room>
+   </line>
+   <line>
+      <id>EN-2121-16</id>
+      <title>Aux. Machinery II -Facilities</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>13:50</endTime>
+      <person>T. Hibbert</person>
+      <room>BR 201</room>
+   </line>
+   <line>
+      <id>EN-1212-25</id>
+      <title>Computer Aided Design</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>13:50</endTime>
+      <person>J. Fialkowski</person>
+      <room>BR 221</room>
+   </line>
+   <line>
+      <id>EN-1212-27</id>
+      <title>Computer Aided Design</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>15:50</endTime>
+      <person>J. Fialkowski</person>
+      <room>BR 221</room>
+   </line>
+   <line>
+      <id>EN-1212-45</id>
+      <title>Computer Aided Design</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>13:50</endTime>
+      <person>E. Fialkowski</person>
+      <room>BR 221</room>
+   </line>
+   <line>
+      <id>EN-1212-47</id>
+      <title>Computer Aided Design</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>15:50</endTime>
+      <person>E. Fialkowski</person>
+      <room>BR 221</room>
+   </line>
+   <line>
+      <id>EN-2901-41</id>
+      <title>Computer Methods in Engineerin</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>09:50</endTime>
+      <person>D. DiMassa</person>
+      <room>BR 221</room>
+   </line>
+   <line>
+      <id>EN-2901-44</id>
+      <title>Computer Methods in Engineerin</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>10:00</startTime>
+      <endTime>11:50</endTime>
+      <person>D. DiMassa</person>
+      <room>BR 221</room>
+   </line>
+   <line>
+      <id>EN-7142-29</id>
+      <title>Diesel Engines</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>17:00</startTime>
+      <endTime>19:50</endTime>
+      <person>O. Humphrey</person>
+      <room>BR 209</room>
+   </line>
+   <line>
+      <id>EN-7142-29</id>
+      <title>Diesel Engines</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>17:00</startTime>
+      <endTime>19:50</endTime>
+      <person>L. Wilcox</person>
+      <room>BR 209</room>
+   </line>
+   <line>
+      <id>EN-4121-11</id>
+      <title>Elec. Power Distribution</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>08:50</endTime>
+      <person>A. Torino</person>
+      <room>HA 107</room>
+   </line>
+   <line>
+      <id>EN-4121-16</id>
+      <title>Elec. Power Distribution</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>13:50</endTime>
+      <person>A. Torino</person>
+      <room>HA 202A</room>
+   </line>
+   <line>
+      <id>EN-3111-11</id>
+      <title>Electrical Machines</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>08:50</endTime>
+      <person>W. Hibbard</person>
+      <room>BR 303</room>
+   </line>
+   <line>
+      <id>EN-3111-14</id>
+      <title>Electrical Machines</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>11:00</startTime>
+      <endTime>11:50</endTime>
+      <person>W. Hibbard</person>
+      <room>HA 107</room>
+   </line>
+   <line>
+      <id>EN-3111L-17</id>
+      <title>Electrical Machines Lab</title>
+      <daysOfWeek>1</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>15:50</endTime>
+      <person>C. Montanez</person>
+      <room>BR 212</room>
+   </line>
+   <line>
+      <id>EN-3111L-17</id>
+      <title>Electrical Machines Lab</title>
+      <daysOfWeek>1</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>15:50</endTime>
+      <person>L. Wilcox</person>
+      <room>BR 212</room>
+   </line>
+   <line>
+      <id>EN-3111L-25</id>
+      <title>Electrical Machines Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>13:50</endTime>
+      <person>L. Wilcox</person>
+      <room>BR 212</room>
+   </line>
+   <line>
+      <id>EN-3111L-25</id>
+      <title>Electrical Machines Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>13:50</endTime>
+      <person>O. Humphrey</person>
+      <room>BR 212</room>
+   </line>
+   <line>
+      <id>EN-3111L-27</id>
+      <title>Electrical Machines Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>15:50</endTime>
+      <person>W. Haynes</person>
+      <room>BR 212</room>
+   </line>
+   <line>
+      <id>EN-3111L-27</id>
+      <title>Electrical Machines Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>15:50</endTime>
+      <person>O. Humphrey</person>
+      <room>BR 212</room>
+   </line>
+   <line>
+      <id>EN-3111L-45</id>
+      <title>Electrical Machines Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>13:50</endTime>
+      <person>W. Haynes</person>
+      <room>BR 212</room>
+   </line>
+   <line>
+      <id>EN-3212-11</id>
+      <title>Electronics</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>08:50</endTime>
+      <person>G. Russell</person>
+      <room>BR 222</room>
+   </line>
+   <line>
+      <id>EN-3212-12</id>
+      <title>Electronics</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>09:00</startTime>
+      <endTime>09:50</endTime>
+      <person>G. Russell</person>
+      <room>BR 222</room>
+   </line>
+   <line>
+      <id>EN-3212-13</id>
+      <title>Electronics</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>10:00</startTime>
+      <endTime>10:50</endTime>
+      <person>W. Yu</person>
+      <room>BR 222</room>
+   </line>
+   <line>
+      <id>EN-3212L-15</id>
+      <title>Electronics Lab</title>
+      <daysOfWeek>1</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>13:50</endTime>
+      <person>D. DiMassa</person>
+      <room>BR 222</room>
+   </line>
+   <line>
+      <id>EN-3212L-17</id>
+      <title>Electronics Lab</title>
+      <daysOfWeek>1</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>15:50</endTime>
+      <person>D. DiMassa</person>
+      <room>BR 222</room>
+   </line>
+   <line>
+      <id>EN-3212L-21</id>
+      <title>Electronics Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>09:50</endTime>
+      <person>J. Bausch</person>
+      <room>BR 222</room>
+   </line>
+   <line>
+      <id>EN-3212L-23</id>
+      <title>Electronics Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>10:00</startTime>
+      <endTime>11:50</endTime>
+      <person>J. Bausch</person>
+      <room>BR 222</room>
+   </line>
+   <line>
+      <id>EN-3212L-25</id>
+      <title>Electronics Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>13:50</endTime>
+      <person>J. Bausch</person>
+      <room>BR 222</room>
+   </line>
+   <line>
+      <id>EN-3212L-41</id>
+      <title>Electronics Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>09:50</endTime>
+      <person>G. Russell</person>
+      <room>BR 222</room>
+   </line>
+   <line>
+      <id>EN-3212L-43</id>
+      <title>Electronics Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>10:00</startTime>
+      <endTime>11:50</endTime>
+      <person>G. Russell</person>
+      <room>BR 222</room>
+   </line>
+   <line>
+      <id>EN-3212L-45</id>
+      <title>Electronics Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>13:50</endTime>
+      <person>D. DiMassa</person>
+      <room>BR 222</room>
+   </line>
+   <line>
+      <id>EN-3212L-47</id>
+      <title>Electronics Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>15:50</endTime>
+      <person>D. DiMassa</person>
+      <room>BR 222</room>
+   </line>
+   <line>
+      <id>EN-3801-24</id>
+      <title>Energy Strategy and Management</title>
+      <daysOfWeek>2,4</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>13:45</endTime>
+      <person>C. Montanez</person>
+      <room>BR 209</room>
+   </line>
+   <line>
+      <id>EN-4704-37</id>
+      <title>Energy Systems Design I</title>
+      <daysOfWeek>3</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>15:50</endTime>
+      <person>M. Whalen</person>
+      <room>BR 301</room>
+   </line>
+   <line>
+      <id>EN-4704-37</id>
+      <title>Energy Systems Design I</title>
+      <daysOfWeek>5</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>14:50</endTime>
+      <person>M. Whalen</person>
+      <room>HA 204</room>
+   </line>
+   <line>
+      <id>EN-2101-11</id>
+      <title>Engineering Statics</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>08:50</endTime>
+      <person>D. DiMassa</person>
+      <room>HA 109</room>
+   </line>
+   <line>
+      <id>EN-1112L-11</id>
+      <title>Engineering Systems Lab</title>
+      <daysOfWeek>1</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>09:50</endTime>
+      <person>R. Gill</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-1112L-21</id>
+      <title>Engineering Systems Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>09:50</endTime>
+      <person>S. Dannessa</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-1112L-21</id>
+      <title>Engineering Systems Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>09:50</endTime>
+      <person>R. Gill</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-1112L-26</id>
+      <title>Engineering Systems Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>14:50</endTime>
+      <person>R. Gill</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-1112L-31</id>
+      <title>Engineering Systems Lab</title>
+      <daysOfWeek>3</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>09:50</endTime>
+      <person>S. Dannessa</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-1112L-31</id>
+      <title>Engineering Systems Lab</title>
+      <daysOfWeek>3</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>09:50</endTime>
+      <person>R. Gill</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-1112L-36</id>
+      <title>Engineering Systems Lab</title>
+      <daysOfWeek>3</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>14:50</endTime>
+      <person>S. Dannessa</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-1112L-36</id>
+      <title>Engineering Systems Lab</title>
+      <daysOfWeek>3</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>14:50</endTime>
+      <person>R. Gill</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-1112L-41</id>
+      <title>Engineering Systems Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>09:50</endTime>
+      <person>R. Gill</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-1112L-46</id>
+      <title>Engineering Systems Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>14:50</endTime>
+      <person>R. Gill</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-1112L-46</id>
+      <title>Engineering Systems Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>14:50</endTime>
+      <person>K. Crawford</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-1112-13</id>
+      <title>Engineering Systems and Safety</title>
+      <daysOfWeek>1,3</daysOfWeek>
+      <startTime>10:00</startTime>
+      <endTime>10:50</endTime>
+      <person>S. Dannessa</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-1112-14</id>
+      <title>Engineering Systems and Safety</title>
+      <daysOfWeek>1,3</daysOfWeek>
+      <startTime>11:00</startTime>
+      <endTime>11:50</endTime>
+      <person>R. Gill</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-1112-15</id>
+      <title>Engineering Systems and Safety</title>
+      <daysOfWeek>1,3</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>12:50</endTime>
+      <person>R. Gill</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-1112-24</id>
+      <title>Engineering Systems and Safety</title>
+      <daysOfWeek>2,4</daysOfWeek>
+      <startTime>11:00</startTime>
+      <endTime>11:50</endTime>
+      <person>S. Dannessa</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-1112-25</id>
+      <title>Engineering Systems and Safety</title>
+      <daysOfWeek>2,4</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>12:50</endTime>
+      <person>S. Dannessa</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-4224-16</id>
+      <title>Facilities Planning &amp; Mgmt.</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>13:50</endTime>
+      <person>G. Stephens</person>
+      <room>HA 304</room>
+   </line>
+   <line>
+      <id>EN-3201-12</id>
+      <title>Fluid Dynamics</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>09:00</startTime>
+      <endTime>09:50</endTime>
+      <person>M. Frain</person>
+      <room>HA 205</room>
+   </line>
+   <line>
+      <id>EN-4111-11</id>
+      <title>Fluid Mechanics</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>08:50</endTime>
+      <person>M. Hyre</person>
+      <room>HA 201</room>
+   </line>
+   <line>
+      <id>EN-4111-13</id>
+      <title>Fluid Mechanics</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>10:00</startTime>
+      <endTime>10:50</endTime>
+      <person>M. Hyre</person>
+      <room>HA 205</room>
+   </line>
+   <line>
+      <id>EN-4111-15</id>
+      <title>Fluid Mechanics</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>12:50</endTime>
+      <person>P. Carroll</person>
+      <room>HA 205</room>
+   </line>
+   <line>
+      <id>EN-4111-16</id>
+      <title>Fluid Mechanics</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>13:50</endTime>
+      <person>M. Hyre</person>
+      <room>BR 302</room>
+   </line>
+   <line>
+      <id>EN-7146-15</id>
+      <title>Heat and Mass Transfer</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>12:50</endTime>
+      <person>M. Hyre</person>
+      <room>BR 302</room>
+   </line>
+   <line>
+      <id>EN-4222-22</id>
+      <title>Heating, Vent. &amp; Air-Cond.</title>
+      <daysOfWeek>2,4</daysOfWeek>
+      <startTime>09:30</startTime>
+      <endTime>10:45</endTime>
+      <person>C. Montanez</person>
+      <room>BR 301</room>
+   </line>
+   <line>
+      <id>EN-4222-25</id>
+      <title>Heating, Vent. &amp; Air-Cond.</title>
+      <daysOfWeek>2,4</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>15:15</endTime>
+      <person>C. Montanez</person>
+      <room>BR 301</room>
+   </line>
+   <line>
+      <id>EN-7214-39</id>
+      <title>Industrial Wastewater</title>
+      <daysOfWeek>3</daysOfWeek>
+      <startTime>19:00</startTime>
+      <endTime>21:50</endTime>
+      <person>W. Rezendes</person>
+      <room>HA 106</room>
+   </line>
+   <line>
+      <id>EN-4131L-21</id>
+      <title>Int. Comb. Engines II Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>11:50</endTime>
+      <person>D. Trudeau</person>
+      <room>BR 103</room>
+   </line>
+   <line>
+      <id>EN-4131L-21</id>
+      <title>Int. Comb. Engines II Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>11:50</endTime>
+      <person>K. Cruse</person>
+      <room>BR 103</room>
+   </line>
+   <line>
+      <id>EN-4131L-41</id>
+      <title>Int. Comb. Engines II Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>11:50</endTime>
+      <person>D. Splaine</person>
+      <room>BR 103</room>
+   </line>
+   <line>
+      <id>EN-4131L-41</id>
+      <title>Int. Comb. Engines II Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>11:50</endTime>
+      <person>K. Cruse</person>
+      <room>BR 103</room>
+   </line>
+   <line>
+      <id>EN-4131L-45</id>
+      <title>Int. Comb. Engines II Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>16:20</endTime>
+      <person>D. Splaine</person>
+      <room>BR 103</room>
+   </line>
+   <line>
+      <id>EN-4131L-45</id>
+      <title>Int. Comb. Engines II Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>16:20</endTime>
+      <person>K. Cruse</person>
+      <room>BR 103</room>
+   </line>
+   <line>
+      <id>EN-4131L-71</id>
+      <title>Int. Comb. Engines II Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>11:50</endTime>
+      <person>D. Trudeau</person>
+      <room>BR 103</room>
+   </line>
+   <line>
+      <id>EN-4131L-71</id>
+      <title>Int. Comb. Engines II Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>11:50</endTime>
+      <person>K. Cruse</person>
+      <room>BR 103</room>
+   </line>
+   <line>
+      <id>EN-4131L-91</id>
+      <title>Int. Comb. Engines II Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>11:50</endTime>
+      <person>D. Splaine</person>
+      <room>BR 103</room>
+   </line>
+   <line>
+      <id>EN-4131L-91</id>
+      <title>Int. Comb. Engines II Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>11:50</endTime>
+      <person>K. Cruse</person>
+      <room>BR 103</room>
+   </line>
+   <line>
+      <id>EN-4131L-95</id>
+      <title>Int. Comb. Engines II Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>16:20</endTime>
+      <person>D. Splaine</person>
+      <room>BR 103</room>
+   </line>
+   <line>
+      <id>EN-4131L-95</id>
+      <title>Int. Comb. Engines II Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>12:30</startTime>
+      <endTime>16:20</endTime>
+      <person>K. Cruse</person>
+      <room>BR 103</room>
+   </line>
+   <line>
+      <id>EN-4131-13</id>
+      <title>Internal Combustion Engines II</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>10:00</startTime>
+      <endTime>10:50</endTime>
+      <person>D. Trudeau</person>
+      <room>BR 209</room>
+   </line>
+   <line>
+      <id>EN-4131-15</id>
+      <title>Internal Combustion Engines II</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>12:50</endTime>
+      <person>D. Trudeau</person>
+      <room>BR 209</room>
+   </line>
+   <line>
+      <id>EN-4131-17</id>
+      <title>Internal Combustion Engines II</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>14:50</endTime>
+      <person>D. Splaine</person>
+      <room>BR 209</room>
+   </line>
+   <line>
+      <id>EN-2701L-41</id>
+      <title>Intro to Design Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>M. Whalen</person>
+      <room>HA 205</room>
+   </line>
+   <line>
+      <id>EN-2701L-41</id>
+      <title>Intro to Design Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>M. Whalen</person>
+      <room>KP LAB</room>
+   </line>
+   <line>
+      <id>EN-2701-44</id>
+      <title>Introduction to Design</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>11:00</startTime>
+      <endTime>11:50</endTime>
+      <person>M. Whalen</person>
+      <room>BR 302</room>
+   </line>
+   <line>
+      <id>EN-4232-36</id>
+      <title>License Seminar</title>
+      <daysOfWeek>3</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>D. Trudeau</person>
+      <room>HA 307</room>
+   </line>
+   <line>
+      <id>EN-2112L-11</id>
+      <title>Machine Tool Tech/Welding Lab</title>
+      <daysOfWeek>1</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>O. Humphrey</person>
+      <room>BR 102</room>
+   </line>
+   <line>
+      <id>EN-2112L-16</id>
+      <title>Machine Tool Tech/Welding Lab</title>
+      <daysOfWeek>1</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>M. Bastoni</person>
+      <room>BR 102</room>
+   </line>
+   <line>
+      <id>EN-2112L-21</id>
+      <title>Machine Tool Tech/Welding Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>M. Bastoni</person>
+      <room>BR 102</room>
+   </line>
+   <line>
+      <id>EN-2112L-21</id>
+      <title>Machine Tool Tech/Welding Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>J. Shepard</person>
+      <room>BR 102</room>
+   </line>
+   <line>
+      <id>EN-2112L-26</id>
+      <title>Machine Tool Tech/Welding Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>M. Bastoni</person>
+      <room>BR 102</room>
+   </line>
+   <line>
+      <id>EN-2112L-26</id>
+      <title>Machine Tool Tech/Welding Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>K. Cruse</person>
+      <room>BR 102</room>
+   </line>
+   <line>
+      <id>EN-2112L-31</id>
+      <title>Machine Tool Tech/Welding Lab</title>
+      <daysOfWeek>3</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>P. Coleman</person>
+      <room>BR 102</room>
+   </line>
+   <line>
+      <id>EN-2112L-31</id>
+      <title>Machine Tool Tech/Welding Lab</title>
+      <daysOfWeek>3</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>F. Collins</person>
+      <room>BR 102</room>
+   </line>
+   <line>
+      <id>EN-2112L-36</id>
+      <title>Machine Tool Tech/Welding Lab</title>
+      <daysOfWeek>3</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>O. Humphrey</person>
+      <room>BR 102</room>
+   </line>
+   <line>
+      <id>EN-2112L-36</id>
+      <title>Machine Tool Tech/Welding Lab</title>
+      <daysOfWeek>3</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>F. Collins</person>
+      <room>BR 102</room>
+   </line>
+   <line>
+      <id>EN-2112L-41</id>
+      <title>Machine Tool Tech/Welding Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>P. Coleman</person>
+      <room>BR 102</room>
+   </line>
+   <line>
+      <id>EN-2112L-41</id>
+      <title>Machine Tool Tech/Welding Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>J. Shepard</person>
+      <room>BR 102</room>
+   </line>
+   <line>
+      <id>EN-2112L-46</id>
+      <title>Machine Tool Tech/Welding Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>P. Coleman</person>
+      <room>BR 102</room>
+   </line>
+   <line>
+      <id>EN-2112L-46</id>
+      <title>Machine Tool Tech/Welding Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>M. Weir</person>
+      <room>BR 102</room>
+   </line>
+   <line>
+      <id>EN-2112-51</id>
+      <title>Machine Tool Technology</title>
+      <daysOfWeek>5</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>08:50</endTime>
+      <person>K. McClellan</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-2112-52</id>
+      <title>Machine Tool Technology</title>
+      <daysOfWeek>5</daysOfWeek>
+      <startTime>09:00</startTime>
+      <endTime>09:50</endTime>
+      <person>K. McClellan</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-2112-53</id>
+      <title>Machine Tool Technology</title>
+      <daysOfWeek>5</daysOfWeek>
+      <startTime>10:00</startTime>
+      <endTime>10:50</endTime>
+      <person>K. McClellan</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-2112-54</id>
+      <title>Machine Tool Technology</title>
+      <daysOfWeek>5</daysOfWeek>
+      <startTime>11:00</startTime>
+      <endTime>11:50</endTime>
+      <person>K. McClellan</person>
+      <room>HA ADM</room>
+   </line>
+   <line>
+      <id>EN-2211-13</id>
+      <title>Mechanics</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>10:00</startTime>
+      <endTime>10:50</endTime>
+      <person>W. Haynes</person>
+      <room>BR 302</room>
+   </line>
+   <line>
+      <id>EN-2211-16</id>
+      <title>Mechanics</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>13:50</endTime>
+      <person>W. Haynes</person>
+      <room>BR 209</room>
+   </line>
+   <line>
+      <id>EN-3214-18</id>
+      <title>Municipal Wastewater</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>15:00</startTime>
+      <endTime>15:50</endTime>
+      <person>D. Splaine</person>
+      <room>BR 305</room>
+   </line>
+   <line>
+      <id>EN-7144-39</id>
+      <title>Nuclear Power</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>19:00</startTime>
+      <endTime>21:50</endTime>
+      <person>F. Clifford</person>
+      <room>HA 109</room>
+   </line>
+   <line>
+      <id>EN-3216-13</id>
+      <title>Operational Controls</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>10:00</startTime>
+      <endTime>10:50</endTime>
+      <person>J. Bausch</person>
+      <room>HA 107</room>
+   </line>
+   <line>
+      <id>EN-3216-17</id>
+      <title>Operational Controls</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>14:50</endTime>
+      <person>J. Bausch</person>
+      <room>BR 303</room>
+   </line>
+   <line>
+      <id>EN-3216-17</id>
+      <title>Operational Controls</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>14:50</endTime>
+      <person>A. Omran</person>
+      <room>BR 303</room>
+   </line>
+   <line>
+      <id>EN-3213-11</id>
+      <title>Refrigeration</title>
+      <daysOfWeek>1,3</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>08:50</endTime>
+      <person>T. Demoranville</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3213-12</id>
+      <title>Refrigeration</title>
+      <daysOfWeek>1,3</daysOfWeek>
+      <startTime>09:00</startTime>
+      <endTime>09:50</endTime>
+      <person>W. Hibbard</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3213-13</id>
+      <title>Refrigeration</title>
+      <daysOfWeek>1,3</daysOfWeek>
+      <startTime>10:00</startTime>
+      <endTime>10:50</endTime>
+      <person>T. Demoranville</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3213-14</id>
+      <title>Refrigeration</title>
+      <daysOfWeek>1,3</daysOfWeek>
+      <startTime>11:00</startTime>
+      <endTime>11:50</endTime>
+      <person>T. Demoranville</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3213L-21</id>
+      <title>Refrigeration Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>W. Hibbard</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3213L-26</id>
+      <title>Refrigeration Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>W. Hibbard</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3213L-26</id>
+      <title>Refrigeration Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>N. Jordan</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3213L-41</id>
+      <title>Refrigeration Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>W. Hibbard</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3213L-41</id>
+      <title>Refrigeration Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>N. Jordan</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3213L-46</id>
+      <title>Refrigeration Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>W. Hibbard</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3213L-71</id>
+      <title>Refrigeration Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>W. Hibbard</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3213L-76</id>
+      <title>Refrigeration Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>W. Hibbard</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3213L-76</id>
+      <title>Refrigeration Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>N. Jordan</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3213L-91</id>
+      <title>Refrigeration Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>W. Hibbard</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3213L-91</id>
+      <title>Refrigeration Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>N. Jordan</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3213L-96</id>
+      <title>Refrigeration Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>W. Hibbard</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3213L-96</id>
+      <title>Refrigeration Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>N. Jordan</person>
+      <room>BR 142</room>
+   </line>
+   <line>
+      <id>EN-3131-12</id>
+      <title>Steam Generators</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>09:00</startTime>
+      <endTime>09:50</endTime>
+      <person>T. Hibbert</person>
+      <room>BR 206</room>
+   </line>
+   <line>
+      <id>EN-3131-13</id>
+      <title>Steam Generators</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>10:00</startTime>
+      <endTime>10:50</endTime>
+      <person>J. Albani</person>
+      <room>BR 206</room>
+   </line>
+   <line>
+      <id>EN-3131-14</id>
+      <title>Steam Generators</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>11:00</startTime>
+      <endTime>11:50</endTime>
+      <person>J. Albani</person>
+      <room>BR 206</room>
+   </line>
+   <line>
+      <id>EN-3131-65</id>
+      <title>Steam Generators</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>12:50</endTime>
+      <person>T. Hibbert</person>
+      <room>BR 206</room>
+   </line>
+   <line>
+      <id>EN-3131L-21</id>
+      <title>Steam Generators Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>L. Wilcox</person>
+      <room>BR 143</room>
+   </line>
+   <line>
+      <id>EN-3131L-21</id>
+      <title>Steam Generators Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>K. Crawford</person>
+      <room>BR 143</room>
+   </line>
+   <line>
+      <id>EN-3131L-26</id>
+      <title>Steam Generators Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>D. Trudeau</person>
+      <room>BR 143</room>
+   </line>
+   <line>
+      <id>EN-3131L-26</id>
+      <title>Steam Generators Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>J. Shepard</person>
+      <room>BR 143</room>
+   </line>
+   <line>
+      <id>EN-3131L-41</id>
+      <title>Steam Generators Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>J. Albani</person>
+      <room>BR 143</room>
+   </line>
+   <line>
+      <id>EN-3131L-41</id>
+      <title>Steam Generators Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>K. Crawford</person>
+      <room>BR 143</room>
+   </line>
+   <line>
+      <id>EN-3131L-45</id>
+      <title>Steam Generators Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>J. Albani</person>
+      <room>BR 143</room>
+   </line>
+   <line>
+      <id>EN-3131L-45</id>
+      <title>Steam Generators Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>J. Shepard</person>
+      <room>BR 143</room>
+   </line>
+   <line>
+      <id>EN-3131L-71</id>
+      <title>Steam Generators Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>L. Wilcox</person>
+      <room>BR 143</room>
+   </line>
+   <line>
+      <id>EN-3131L-71</id>
+      <title>Steam Generators Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>K. Crawford</person>
+      <room>BR 143</room>
+   </line>
+   <line>
+      <id>EN-3131L-76</id>
+      <title>Steam Generators Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>D. Trudeau</person>
+      <room>BR 143</room>
+   </line>
+   <line>
+      <id>EN-3131L-76</id>
+      <title>Steam Generators Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>J. Shepard</person>
+      <room>BR 143</room>
+   </line>
+   <line>
+      <id>EN-3131L-91</id>
+      <title>Steam Generators Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>J. Albani</person>
+      <room>BR 143</room>
+   </line>
+   <line>
+      <id>EN-3131L-91</id>
+      <title>Steam Generators Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>10:50</endTime>
+      <person>K. Crawford</person>
+      <room>BR 143</room>
+   </line>
+   <line>
+      <id>EN-3131L-95</id>
+      <title>Steam Generators Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>J. Albani</person>
+      <room>BR 143</room>
+   </line>
+   <line>
+      <id>EN-3131L-95</id>
+      <title>Steam Generators Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>15:50</endTime>
+      <person>J. Shepard</person>
+      <room>BR 143</room>
+   </line>
+   <line>
+      <id>EN-3112-12</id>
+      <title>Strength of Materials</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>09:00</startTime>
+      <endTime>09:50</endTime>
+      <person>G. Stephens</person>
+      <room>HA 203</room>
+   </line>
+   <line>
+      <id>EN-3112-13</id>
+      <title>Strength of Materials</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>10:00</startTime>
+      <endTime>10:50</endTime>
+      <person>A. Omran</person>
+      <room>HA 104</room>
+   </line>
+   <line>
+      <id>EN-3112-14</id>
+      <title>Strength of Materials</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>11:00</startTime>
+      <endTime>11:50</endTime>
+      <person>W. Yu</person>
+      <room>HA 108</room>
+   </line>
+   <line>
+      <id>EN-3112-16</id>
+      <title>Strength of Materials</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>13:00</startTime>
+      <endTime>13:50</endTime>
+      <person>P. Carroll</person>
+      <room>HA 205</room>
+   </line>
+   <line>
+      <id>EN-3112L-21</id>
+      <title>Strength of Materials Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>09:50</endTime>
+      <person>G. Stephens</person>
+      <room>BR 108</room>
+   </line>
+   <line>
+      <id>EN-3112L-23</id>
+      <title>Strength of Materials Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>10:00</startTime>
+      <endTime>11:50</endTime>
+      <person>G. Stephens</person>
+      <room>BR 108</room>
+   </line>
+   <line>
+      <id>EN-3112L-23</id>
+      <title>Strength of Materials Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>10:00</startTime>
+      <endTime>11:50</endTime>
+      <person>A. Omran</person>
+      <room>BR 108</room>
+   </line>
+   <line>
+      <id>EN-3112L-25</id>
+      <title>Strength of Materials Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>13:50</endTime>
+      <person>A. Omran</person>
+      <room>BR 108</room>
+   </line>
+   <line>
+      <id>EN-3112L-27</id>
+      <title>Strength of Materials Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>15:50</endTime>
+      <person>A. Omran</person>
+      <room>BR 108</room>
+   </line>
+   <line>
+      <id>EN-3112L-41</id>
+      <title>Strength of Materials Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>09:50</endTime>
+      <person>P. Carroll</person>
+      <room>BR 108</room>
+   </line>
+   <line>
+      <id>EN-3112L-45</id>
+      <title>Strength of Materials Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>13:50</endTime>
+      <person>W. Yu</person>
+      <room>BR 108</room>
+   </line>
+   <line>
+      <id>EN-3112L-47</id>
+      <title>Strength of Materials Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>15:50</endTime>
+      <person>W. Yu</person>
+      <room>BR 108</room>
+   </line>
+   <line>
+      <id>EN-3102-11</id>
+      <title>System Dynamics and Vibrations</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>08:50</endTime>
+      <person>F. Murray</person>
+      <room>HA 206</room>
+   </line>
+   <line>
+      <id>EN-4112-21</id>
+      <title>Thermo/Fluids Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>09:50</endTime>
+      <person>M. Whalen</person>
+      <room>BR 141</room>
+   </line>
+   <line>
+      <id>EN-4112-25</id>
+      <title>Thermo/Fluids Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>13:50</endTime>
+      <person>M. Whalen</person>
+      <room>BR 141</room>
+   </line>
+   <line>
+      <id>EN-4112-27</id>
+      <title>Thermo/Fluids Lab</title>
+      <daysOfWeek>2</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>15:50</endTime>
+      <person>M. Whalen</person>
+      <room>BR 141</room>
+   </line>
+   <line>
+      <id>EN-4112-37</id>
+      <title>Thermo/Fluids Lab</title>
+      <daysOfWeek>3</daysOfWeek>
+      <startTime>14:00</startTime>
+      <endTime>15:50</endTime>
+      <person>F. Murray</person>
+      <room>BR 141</room>
+   </line>
+   <line>
+      <id>EN-4112-41</id>
+      <title>Thermo/Fluids Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>08:00</startTime>
+      <endTime>09:50</endTime>
+      <person>M. Frain</person>
+      <room>BR 141</room>
+   </line>
+   <line>
+      <id>EN-4112-43</id>
+      <title>Thermo/Fluids Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>10:00</startTime>
+      <endTime>11:50</endTime>
+      <person>M. Frain</person>
+      <room>BR 141</room>
+   </line>
+   <line>
+      <id>EN-4112-50</id>
+      <title>Thermo/Fluids Lab</title>
+      <daysOfWeek>4</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>13:50</endTime>
+      <person>F. Murray</person>
+      <room>BR 141</room>
+   </line>
+   <line>
+      <id>EN-3211-12</id>
+      <title>Thermodynamics</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>09:00</startTime>
+      <endTime>09:50</endTime>
+      <person>P. Carroll</person>
+      <room>HA 107</room>
+   </line>
+   <line>
+      <id>EN-3211-15</id>
+      <title>Thermodynamics</title>
+      <daysOfWeek>1,3,5</daysOfWeek>
+      <startTime>12:00</startTime>
+      <endTime>12:50</endTime>
+      <person>M. Frain</person>
+      <room>HA 104</room>
+   </line>
+</schedule>
